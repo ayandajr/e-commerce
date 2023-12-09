@@ -1,5 +1,5 @@
 import React from 'react'
-import { Metadata } from 'next'
+import  { Metadata }  from 'next'
 
 import { mergeOpenGraph } from '../../_utilities/mergeOpenGraph'
 import AccountForm from './AccountForm'
