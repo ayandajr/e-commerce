@@ -1,7 +1,8 @@
-import { Banner } from 'payload/components'
 import React from 'react'
+import { Banner } from 'payload/components'
 
 import './index.scss'
+
 
 const baseClass = 'before-dashboard'
 
